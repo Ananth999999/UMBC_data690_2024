@@ -1,14 +1,14 @@
-# UMBC Data 690 2024
-# Exploratory Data Analysis (EDA) - [Project Title]
+# 
+# Exploratory Data Analysis (EDA)
 
 This project is a hands-on exploratory data analysis (EDA) session using Python. It involves working with real-world datasets to perform data cleaning, visualization, and gain actionable insights.
 
-## 📂 Files Included
+##  Files Included
 
 - `session_02.ipynb`: Main Jupyter notebook containing all the EDA code.
 - `requirements.txt`: List of Python packages required to run this notebook.
 
-## 📊 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 - Reading datasets with Pandas
 - Data wrangling and cleaning
@@ -16,7 +16,7 @@ This project is a hands-on exploratory data analysis (EDA) session using Python.
 - Visualizing distributions and relationships in the dataset
 - Handling missing values and outliers
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run this notebook locally:
 
